@@ -1,4 +1,4 @@
-# aray-4-inisialisasi-dengan-0-
+# aray-contoh-4-inisialisasi-dengan-0-
 
 codingan program lengkap
 
